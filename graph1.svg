@@ -11,7 +11,7 @@
 <!-- [root] azurerm_resource_group.tfstate (expand) -->
 <g id="node1" class="node">
 <title>[root] azurerm_resource_group.tfstate (expand)</title>
-<polygon fill="none" stroke="black" points="425.59,-108 231.59,-108 231.59,-72 425.59,-72 425.59,-108"/>
+<polygon fill="none" stroke="blue" points="425.59,-108 231.59,-108 231.59,-72 425.59,-72 425.59,-108"/>
 <text text-anchor="middle" x="328.59" y="-86.3" font-family="Times New Roman,serif" font-size="14.00">azurerm_resource_group.tfstate</text>
 </g>
 <!-- [root] provider[&quot;registry.terraform.io/hashicorp/azurerm&quot;] -->
